@@ -13,9 +13,9 @@ export const PromoSection = styled.section`
     border-radius: 3rem 3rem 0 0;
     background-color: #fff;
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 50% 50%;
-    row-gap: 4rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 8rem;
     column-gap: 2rem;
     justify-items: center;
     padding: 15rem;
