@@ -8,7 +8,7 @@ export default function ProductsCard() {
     const [ data, setData ] = useState([])
     const cart = []
     useEffect(() => {
-        api.get('').then(response => {
+        api.get('/produtos').then(response => {
             setData(response.data)
         })
     },[])
