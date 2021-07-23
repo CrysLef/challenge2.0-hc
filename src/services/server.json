@@ -1,0 +1,52 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://img.terabyteshop.com.br/produto/p/computador-t-home-easypc-intel-core-i5-3470-8gb-2tb-120gb-ssd-gtx-1050-ti_113977.jpg",
+            "name": "COMPUTADOR EASYPC INTEL I7 9ª GERAÇÃO / 8GB / HD 1TB / GTX 1050TI",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo": "https://img.terabyteshop.com.br/produto/p/placa-mae-gigabyte-b450-aorus-elite-ddr4-m2-thermal-guard-crossfire-am4_71244.jpg",
+            "name": "PLACA MÃE GIGABYTE B450 AORUS ELITE,CHIPSET B450,AMD,ATX,DDR4",
+            "price": 789
+        },
+        {
+            "id": 3,
+            "photo": "https://img.terabyteshop.com.br/produto/p/processador-intel-core-i5-10600kf-41ghz-48ghz-turbo-10-geracao-lga-1200-bx8070110600kf_125740.jpg",
+            "name": "PROCESSADOR INTEL CORE I5 10600KF 4.1GHZ (4.8GHZ TURBO), 10ª GERAÇÃO, LGA 1200, BX8070110600KF",
+            "price": 1200
+        },
+        {
+            "id": 4,
+            "photo": "https://img.terabyteshop.com.br/produto/p/processador-amd-ryzen-3-3200g-36ghz-40ghz-turbo-4-core-4-thread-cooler-wraith-stealth-am4_76128.jpg",
+            "name": "PROCESSADOR AMD RYZEN 3 3200G 3.6GHZ (4.0GHZ TURBO),4-CORES 4-THREADS, COOLER WRAITH STEALTH",
+            "price": 980
+        },
+        {
+            "id": 5,
+            "photo": "https://img.terabyteshop.com.br/produto/p/placa-de-video-amd-radeon-rx-6700-xt-12gb-gddr6-192-bit-dual-rx6700xt-12g_117943.png",
+            "name": "PLACA DE VÍDEO ASUS RADEON RX 6700 XT DUAL 12GB, 12GB, GDRR6, 192-BIT,DUAL-RX6700XT-12G",
+            "price": 67800
+        },
+        {
+            "id": 6,
+            "photo": "https://img.terabyteshop.com.br/produto/p/placa-mae-asus-prime-a320m-k-ddr4-am4_124483.png",
+            "name": "PLACA MÃE ASUS PRIME A320M-K,CHIPSET A320,AMD AM4,MATX,DDR4",
+            "price": 450
+        },
+        {
+            "id": 7,
+            "photo": "https://img.terabyteshop.com.br/produto/p/memoria-ddr4-crucial-ballistix-8gb-3000mhz-black-bl8g30c15u4b_97609.png",
+            "name": "MEMÓRIA DDR4 CRUCIAL BALLISTIX,8GB,3000MHZ,BLACK,BL8GC30C15U4B",
+            "price": 270
+        },
+        {
+            "id": 8,
+            "photo": "https://img.terabyteshop.com.br/produto/p/computador-t-moba-easypc-i7-2600-8gb-hd-1tb-gtx-1050ti-500w-kit-fan-rgb_106251.jpg",
+            "name": "COMPUTADOR EASYPC AMD RYZEN 5 3400G / 16GB / 500GB SSD / KIT FAN RGB",
+            "price": 8000
+        }
+    ]
+}
